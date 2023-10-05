@@ -1,0 +1,33 @@
+.box-grid
+{
+display: grid;
+grid-template-columns: 20% auto;
+grid-template-rows: 20% auto;
+background-color: #fcdee0;
+gap: 10px;
+
+}
+
+img
+{
+height: 100%;
+width: auto;
+background-color: #fcdee0;
+}
+
+h1
+{
+text-align: center;
+}
+
+body{
+background-color: #fcdee0;
+
+}
+
+
+ul
+{
+width: 50%;
+
+}
